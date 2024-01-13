@@ -10,7 +10,9 @@ redirect_from:
 
 I'm currently a first-year master student of cyberspace security at Xi'an Jiaotong University under the supervision of Prof.Haijun Wang. Previously, I received my Bachelor's Degree in Automation from Xi'an Jiaotong University in 2023.
 
-My current research interests are `blockchain security`, and `program analysis`.
+My current research interests are `blockchain security`, and `program analysis`. 
+
+If you are interested in what I'am learning recently, you can visit [my personal website](https://emmanuelwh.github.io/)
 
 ## Education
 
@@ -27,16 +29,22 @@ on the way (qwq)
 
 ## Honors & Awards
 
-- National Second prize of China Graduate Student Mathematical Contest in Modeling `XJTU 2023.11`
+### Honors:
 - Outstanding graduates of Shaanxi Province `XJTU 2023`
 - Outstanding graduates of XJTU `XJTU 2023`
 - Xi an Jiaotong University first-class scholarship `XJTU 2020,2021,2022(TOP 3%)`
 - Merit student of Hefei `High school 2019`
 
+### Awards:
+- Second Price of National Mathematical Modeling Contest for Postgraduates at National Level `XJTU 2023.11`
+- Second Prize of National Mathematical Modeling Contest for Undergraduates at Provincial Level `XJTU 2021.11`
+- First Price of National Undergraduates Mathematics Competitions at Provincial Level `XJTU 2021.11`
+- First Price of National Undergraduates Mathematics Competitions at Provincial Level `XJTU 2020.11`
+
 ## Skills
 - English: CET-6 551
 
-- Programming language：Python, Solidity, Matlab
+- Programming language：Python, Solidity, Matlab, Latex
 
 - Web: Django and little Vue
 
