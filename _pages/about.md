@@ -12,7 +12,7 @@ I'm currently a first-year master student of cyberspace security at Xi'an Jiaoto
 
 My current research interests are `blockchain security`, and `program analysis`. 
 
-If you are interested in what I'am learning recently, you can visit [my personal website](https://emmanuelwh.github.io/)
+If you are interested in what I'm learning recently, you can visit [my personal website](https://emmanuelwh.github.io/)
 
 ## Education
 
@@ -20,7 +20,7 @@ If you are interested in what I'am learning recently, you can visit [my personal
   - Master in Cyberspace Security
   - Adivsor：Prof. Haijun Wang
 - Xi'an Jiaotong University `2019.9-2023.6`
-  - B.S. in Automation(GPA 92/100)
+  - B.S. in Automation(GPA 92+/100)
   - Outstanding Undergraduate in ShannXi Province
 
 ## Publications
