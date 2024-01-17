@@ -46,7 +46,7 @@ on the way (qwq)
 
 - Programming language：Python, Solidity, Matlab, Latex
 
-- Web: Django and little Vue
+- Web: Django and Vue
 
 ## Patent and Software copyright:
 
