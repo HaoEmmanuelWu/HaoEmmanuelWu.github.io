@@ -32,7 +32,7 @@ on the way (qwq)
 ### Honors:
 - Outstanding graduates of Shaanxi Province `XJTU 2023`
 - Outstanding graduates of XJTU `XJTU 2023`
-- Xi an Jiaotong University first-class scholarship `XJTU 2020,2021,2022(TOP 3%)`
+- Xi‘an Jiaotong University first-class scholarship `XJTU 2020,2021,2022(TOP 3%)`
 - Merit student of Hefei `High school 2019`
 
 ### Awards:
