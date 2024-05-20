@@ -44,9 +44,9 @@ on the way (qwq)
 ## Skills
 - English: CET-6 551
 
-- Programming language：Python, Solidity, Matlab, Latex
+- Programming language：Python, Solidity, Matlab
 
-- Web: Django and Vue
+- Django, Vue, Docker, Git
 
 ## Patent and Software copyright:
 
