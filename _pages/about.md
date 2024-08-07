@@ -25,14 +25,16 @@ If you are interested in what I'm learning recently, you can visit [my personal 
 
 ## Publications
 
-on the way (qwq)
+H. Wang, Y. Hu, **H. Wu**, D. Liu, C. Peng, Y. Wu, M. Fan, T. Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024)
+
+Y. Wu, X. Xie, C. Peng, D. Liu, **H. Wu**, M. Fan, T. Liu, H. Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024)
 
 ## Honors & Awards
 
 ### Honors:
 - Outstanding graduates of Shaanxi Province `XJTU 2023`
 - Outstanding graduates of XJTU `XJTU 2023`
-- Xi‘an Jiaotong University first-class scholarship `XJTU 2020,2021,2022(TOP 3%)`
+- Xi an Jiaotong University first-class scholarship `XJTU 2020,2021,2022(TOP 3%)`
 - Merit student of Hefei `High school 2019`
 
 ### Awards:
@@ -44,9 +46,9 @@ on the way (qwq)
 ## Skills
 - English: CET-6 551
 
-- Programming language：Python, Solidity, Matlab
+- Programming language：Python, Solidity, Matlab, Latex
 
-- Django, Vue, Docker, Git
+- Web: Django and little Vue
 
 ## Patent and Software copyright:
 
