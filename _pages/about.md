@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year master student of cyberspace security at Xi'an Jiaotong University under the supervision of Prof.Haijun Wang. Previously, I received my Bachelor's Degree in Automation from Xi'an Jiaotong University in 2023.
+I'm currently a second-year master student of cyberspace security at Xi'an Jiaotong University under the supervision of Prof.Haijun Wang. Previously, I received my Bachelor's Degree in Automation from Xi'an Jiaotong University in 2023.
 
 My current research interests are `blockchain security`, and `program analysis`. 
 
@@ -25,9 +25,11 @@ If you are interested in what I'm learning recently, you can visit [my personal 
 
 ## Publications
 
-H. Wang, Y. Hu, **H. Wu**, D. Liu, C. Peng, Y. Wu, M. Fan, T. Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024)
+1. H. Wang, Y. Hu, **H. Wu**, D. Liu, C. Peng, Y. Wu, M. Fan, T. Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (CCF-A ASE2024)
 
-Y. Wu, X. Xie, C. Peng, D. Liu, **H. Wu**, M. Fan, T. Liu, H. Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024)
+2. Y. Wu, X. Xie, C. Peng, D. Liu, **H. Wu**, M. Fan, T. Liu, H. Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (CCF-A ASE2024)
+
+3. Y. Wu, H. Wang, Y. Zhang, X. Li, **H. Wu**, M. Fan, T. Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (AISTA2024)
 
 ## Honors & Awards
 
@@ -48,7 +50,7 @@ Y. Wu, X. Xie, C. Peng, D. Liu, **H. Wu**, M. Fan, T. Liu, H. Wang. AdvSCanner: 
 
 - Programming language：Python, Solidity, Matlab, Latex
 
-- Web: Django and little Vue
+- django, vue, docker, redis
 
 ## Patent and Software copyright:
 
