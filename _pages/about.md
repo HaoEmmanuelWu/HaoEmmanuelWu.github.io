@@ -25,11 +25,15 @@ If you are interested in what I'm learning recently, you can visit [my personal 
 
 ## Publications
 
-1. H. Wang, Y. Hu, **H. Wu**, D. Liu, C. Peng, Y. Wu, M. Fan, T. Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (CCF-A, ASE2024)
+1. **H. Wu**, H. Wang, S. Li, Y. Wu, M. Fan, Y. Zhao, T. Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware 2025 New Idea)
 
-2. Y. Wu, X. Xie, C. Peng, D. Liu, **H. Wu**, M. Fan, T. Liu, H. Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (CCF-A, ASE2024)
+2. H. Wang, Y. Hu, **H. Wu**, D. Liu, C. Peng, Y. Wu, M. Fan, T. Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (CCF-A, ASE2024)
 
-3. Y. Wu, H. Wang, Y. Zhang, X. Li, **H. Wu**, M. Fan, T. Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (AISTA2024)
+3. Y. Wu, X. Xie, C. Peng, D. Liu, **H. Wu**, M. Fan, T. Liu, H. Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (CCF-A, ASE2024)
+
+4. C. Peng, H. Wang, Y. Wu, **H. Wu**, M. Fan, Y. Zhao, T. Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware 2025 New Idea)
+
+5. Y. Wu, H. Wang, Y. Zhang, X. Li, **H. Wu**, M. Fan, T. Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (AISTA2024)
 
 ## Honors & Awards
 
@@ -45,10 +49,9 @@ If you are interested in what I'm learning recently, you can visit [my personal 
 - Letter of Appreciation (2023 National Cybersecurity Attack and Defense Exercise for Education System) `2024.01`
 - 2nd Price in the Postgraduate Mathematical Modeling Contest at National Level `XJTU 2023.11`
 - 1st Price in the Undergraduate Mathematics Contest at Provincial Level `XJTU 2021.11`
-- 1st Price in the Undergraduate Mathematics Contest at Provincial Level `XJTU 2020.11`
 
 ## Skills
-- Languages: English (CET-6 551), Chinese (Native)
+- Languages: English (CET-6 551, TOEFL 90), Chinese (Native)
 
 - Programming language：Python, Solidity, JavaScript, C++
 
