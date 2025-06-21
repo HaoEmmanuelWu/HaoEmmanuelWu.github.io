@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hao Wu will become a dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic University, under the supervision of Prof. Haijun Wang and Prof. Daniel Xiapu Luo. Before that, he pursued his M.S. degree at Xi'an Jiaotong University (2023-2025) and received his B.S. degree in Automation from Xi'an Jiaotong University in 2023.
+Hao Wu will become a dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic University from 2025.09, under the supervision of Prof. Haijun Wang and Prof. Daniel Xiapu Luo. Before that, he pursued his M.S. degree at Xi'an Jiaotong University (2023-2025) and received his B.S. degree in Automation from Xi'an Jiaotong University in 2023.
 
 His research interest includes blockchain/smart contract security and program analysis, particularly in combining static/dynamic program analysis with large language models to enhance blockchain security.
 
@@ -34,20 +34,24 @@ His research interest includes blockchain/smart contract security and program an
 
 # 📝 Publications 
 
+^ denotes equal contribution, * denotes corrsponding author(s).
+<!-- 📚 journel paper
+📝 preprint paper -->
+
 ### 2025
 
-- [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware New Idea 2025)
+- [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang*, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware New Idea 2025)
 
-- [C5] 📄 Chenyang Peng, Haijun Wang, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware New Idea 2025)
+- [C5] 📄 Chenyang Peng, Haijun Wang*, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware New Idea 2025)
 
 
 ### 2024
 
-- [C1] 📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
+- [C1] 📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu*. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
 
-- [C2] 📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
+- [C2] 📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang*. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
 
-- [C3] 📄 Yin Wu, Haijun Wang, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (ISSRE Workshop 2024) 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
+- [C3] 📄 Yin Wu, Haijun Wang*, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (ISSRE Workshop 2024) 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
 
 
 
@@ -91,3 +95,9 @@ His research interest includes blockchain/smart contract security and program an
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🐯 Miscellaneous
+
+- I have a deep passion for rhythm music genres like R&B, Soul, and Funk. Some of my favorite artists include Khalil Fong, David Tao, Prince, and Stevie Wonder...
+
+- I'm also an avid tennis enthusiast who loves both playing and watching matches. Rafa Nadal is my favorite player. One of my dreams is to watch all four Grand Slam tournaments someday - although my current process on this goal remains at 0/4. 
