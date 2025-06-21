@@ -27,25 +27,27 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU.
+- *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
+- *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to **ASE2024**.
+- *2024.08*: &nbsp;🎉🎉 Our paper 📑 "Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts" has been accepted to **ASE2024**.
 
 # 📝 Publications 
 
 ### 2025
 
-📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware New Idea 2025)
+- [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware New Idea 2025)
 
-📄 Chenyang Peng, Haijun Wang, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware New Idea 2025)
+- [C5] 📄 Chenyang Peng, Haijun Wang, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware New Idea 2025)
 
 
 ### 2024
 
-📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
+- [C1] 📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
 
-📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
+- [C2] 📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
 
-📄 Yin Wu, Haijun Wang, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (ISSRE Workshop 2024) 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
+- [C3] 📄 Yin Wu, Haijun Wang, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (ISSRE Workshop 2024) 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
 
 
 
@@ -62,7 +64,7 @@ His research interest includes blockchain/smart contract security and program an
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
