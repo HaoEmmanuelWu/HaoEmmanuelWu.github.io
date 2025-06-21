@@ -27,7 +27,7 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU.
+- *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to **ASE2024**.
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts" has been accepted to **ASE2024**.
