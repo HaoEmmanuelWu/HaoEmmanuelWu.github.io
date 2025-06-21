@@ -32,6 +32,24 @@ His research interest includes blockchain/smart contract security and program an
 
 # 📝 Publications 
 
+### 2025
+
+📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware New Idea 2025)
+
+📄 Chenyang Peng, Haijun Wang, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware New Idea 2025)
+
+
+### 2024
+
+📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu. Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
+
+📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang. AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis (ASE2024, CCF-A) 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
+
+📄 Yin Wu, Haijun Wang, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios (ISSRE Workshop 2024) 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
+
+
+
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,8 +66,8 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 📖 Educations
-- *2025.09 - 2029.06*, Ph.D, The Hong Kong Polytechnic University, Supervisor: Prof. Daniel Xiapu Luo.
-- *2025.09 - 2029.06*, Ph.D, Xi'an Jiaotong University, Supervisor: Prof. Haijun Wang.
+- *2025.09 - 2029.06*, Ph.D, The Hong Kong Polytechnic University, Supervisor: Prof. Daniel Xiapu Luo (Expected).
+- *2025.09 - 2029.06*, Ph.D, Xi'an Jiaotong University, Supervisor: Prof. Haijun Wang (Expected).
 - *2023.09 - 2025.06*, M.S., Xi'an Jiaotong University, Supervisor: Prof. Haijun Wang.
 - *2019.09 - 2023.06*, B.s., Xi'an Jiaotong University. 
 
