@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hao Wu"
-  avatar           : "images/daily-life.jpg"
+  avatar           : "images/daily.jpg"
   bio              : "Dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic University"
   location         : "Xi'an, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Emmanuelwh"
   google_plus      :
   keybase          :
   instagram        :

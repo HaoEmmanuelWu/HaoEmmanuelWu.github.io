@@ -29,8 +29,8 @@ His research interest includes blockchain/smart contract security and program an
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
-- *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to **ASE2024**.
-- *2024.08*: &nbsp;🎉🎉 Our paper 📑 "Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts" has been accepted to **ASE2024**.
+- *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to ASE2024.
+- *2024.08*: &nbsp;🎉🎉 Our paper 📑 "Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts" has been accepted to ASE2024.
 
 # 📝 Publications 
 
@@ -84,6 +84,7 @@ His research interest includes blockchain/smart contract security and program an
 - *2024*: Excellent Graduate Student of Xi'an Jiaotong University.
 - *2023*: Outstanding Graduate of Shaanxi Province.
 - *2023*: Outstanding Graduate of Xi'an Jiaotong Univerisity.
+- *2023*: National Cybersecurity Attack and Defense Exercise for Educational System.
 - *2020,2021,2022*: Merit Student of Xi'an Jiaotong University.
 - *2019*: Merit Student of Hefei.
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -98,6 +99,6 @@ His research interest includes blockchain/smart contract security and program an
 
 # 🐯 Miscellaneous
 
-- I have a deep passion for rhythm music genres like R&B, Soul, and Funk. Some of my favorite artists include Khalil Fong, David Tao, Prince, and Stevie Wonder...
+- I have a deep passion for rhythm music genres like R&B, Soul, and Funk. Some of my favorite artists include Khalil Fong, David Tao, Prince, and Stevie Wonder et al.
 
 - I'm also an avid tennis enthusiast who loves both playing and watching matches. Rafa Nadal is my favorite player. One of my dreams is to watch all four Grand Slam tournaments someday - although my current process on this goal remains at 0/4. 
