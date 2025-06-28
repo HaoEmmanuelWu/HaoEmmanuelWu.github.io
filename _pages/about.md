@@ -47,6 +47,8 @@ His research interest includes blockchain/smart contract security and program an
 
 - [C5] 📄 Chenyang Peng, Haijun Wang*, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis (Internetware New Idea 2025).
 
+- [C6] 📄 Shuhao Chang, Xin Li, Jigang Xie, <strong style="color:#06C0B9">Hao Wu*</strong>, Haijun Wang. LiCoVer: LLM-Powered Automated OSS License Compliance Verification (ICECCS 2025).
+
 
 ### 2024
 
