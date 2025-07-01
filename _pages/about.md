@@ -49,7 +49,7 @@ His research interest includes blockchain/smart contract security and program an
 
 - [C6] 📄 Shuhao Chang, Xin Li, Jigang Xie, <strong style="color:#06C0B9">Hao Wu#</strong>, Haijun Wang. *LiCoVer: LLM-Powered Automated OSS License Compliance Verification.* In the 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025).
 
-- [C7] 📄 Shangwang Li, Haijun Wang#, <strong style="color:#06C0B9">Hao Wu</strong>, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Verifying Event Completeness and Consistency in Token Contracts with Static Analysis and LLMs* In the 5th International Conference on Computer Science and Blockchain (CCSB 2025).
+- [C7] 📄 Shangwang Li, Haijun Wang#, <strong style="color:#06C0B9">Hao Wu</strong>, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Verifying Event Completeness and Consistency in Token Contracts with Static Analysis and LLMs.* In the 5th International Conference on Computer Science and Blockchain (CCSB 2025).
 
 
 ### 2024
