@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hao Wu will become a dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic University from 2025.09, under the supervision of Prof. Haijun Wang and Prof. Daniel Xiapu Luo. Before that, he pursued his M.S. degree at Xi'an Jiaotong University (2023-2025) and received his B.S. degree in Automation from Xi'an Jiaotong University in 2023.
+Hao Wu will become a dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic University from 2025.09, under the supervision of [Prof. Haijun Wang](https://gr.xjtu.edu.cn/en/web/haijunwang) and [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he pursued his M.S. degree at Xi'an Jiaotong University (2023-2025) and received his B.S. degree in Automation from Xi'an Jiaotong University in 2023.
 
 His research interest includes blockchain/smart contract security and program analysis, particularly in combining static/dynamic program analysis with large language models to enhance blockchain security.
 
