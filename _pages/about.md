@@ -27,7 +27,7 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🚀🚀 Our paper 📑 "Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" is recently released.
+- *2025.06*: &nbsp;🚀🚀 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" is recently released.
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to ASE2024.
@@ -41,7 +41,7 @@ His research interest includes blockchain/smart contract security and program an
 
 ### 2025
 
-- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang*, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Yitao Zhao, Ting Liu. Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis (arXiv 2025). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
+- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang*, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Yitao Zhao, Ting Liu. RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis (arXiv 2025). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
 
 - [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang*, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. PriceSleuth: Detecting DeFi Price Manipulation Attacks in Smart Contracts Using LLM and Static Analysis (Internetware New Idea 2025).
 
