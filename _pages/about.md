@@ -35,30 +35,30 @@ His research interest includes blockchain/smart contract security and program an
 
 # 📝 Publications 
 
-^ denotes equal contribution, * denotes corrsponding author(s).
+^ denotes equal contribution, # denotes corrsponding author(s).
 <!-- 📚 journel paper
 📝 preprint paper -->
 
 ### 2025
 
-- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang*, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Yitao Zhao, Ting Liu. *RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis.* (arXiv 2025). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
+- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Yitao Zhao, Ting Liu. *RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis.* (arXiv 2025). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
 
-- [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang*, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis.* In the 16th International Conference on Internetware: New Idea Track (Internetware New Idea 2025).
+- [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis.* In the 16th International Conference on Internetware: New Idea Track (Internetware New Idea 2025).
 
-- [C5] 📄 Chenyang Peng, Haijun Wang*, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. *ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis.* In the 16th International Conference on Internetware: New Idea Track (Internetware New Idea 2025).
+- [C5] 📄 Chenyang Peng, Haijun Wang#, Yin Wu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Yitao Zhao, Ting Liu. *ETrace : Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis.* In the 16th International Conference on Internetware: New Idea Track (Internetware New Idea 2025).
 
-- [C6] 📄 Shuhao Chang, Xin Li, Jigang Xie, <strong style="color:#06C0B9">Hao Wu*</strong>, Haijun Wang. *LiCoVer: LLM-Powered Automated OSS License Compliance Verification.* In the 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025).
+- [C6] 📄 Shuhao Chang, Xin Li, Jigang Xie, <strong style="color:#06C0B9">Hao Wu#</strong>, Haijun Wang. *LiCoVer: LLM-Powered Automated OSS License Compliance Verification.* In the 29th International Conference on Engineering of Complex Computer Systems (ICECCS 2025).
 
-- [C7] 📄 Shangwang Li, Haijun Wang*, <strong style="color:#06C0B9">Hao Wu</strong>, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Verifying Event Completeness and Consistency in Token Contracts with Static Analysis and LLMs* In the 5th International Conference on Computer Science and Blockchain (CCSB 2025).
+- [C7] 📄 Shangwang Li, Haijun Wang#, <strong style="color:#06C0B9">Hao Wu</strong>, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Verifying Event Completeness and Consistency in Token Contracts with Static Analysis and LLMs* In the 5th International Conference on Computer Science and Blockchain (CCSB 2025).
 
 
 ### 2024
 
-- [C1] 📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu*. *Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts.* In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE2024, CCF-A). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
+- [C1] 📄 Haijun Wang, Yurui Hu, <strong style="color:#06C0B9">Hao Wu</strong>, Dijun Liu, Chenyang Peng, Yin Wu, Ming Fan, Ting Liu#. *Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts.* In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE2024, CCF-A). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695526)
 
-- [C2] 📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang*. *AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis.* In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE2024, CCF-A). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
+- [C2] 📄 Yin Wu, Xiaofei Xie, Chenyang Peng, Dijun Liu, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang#. *AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis.* In the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE2024, CCF-A). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3691620.3695482)
 
-- [C3] 📄 Yin Wu, Haijun Wang*, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. *Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios.* In the 35th IEEE International Symposium on Software Reliability Engineering Workshops (ISSRE Workshop 2024). 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
+- [C3] 📄 Yin Wu, Haijun Wang#, Yuanhui Zhang, Xitao Li, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu. *Business Compliance Detection of Smart Contracts in Electricity and Carbon Trading Scenarios.* In the 35th IEEE International Symposium on Software Reliability Engineering Workshops (ISSRE Workshop 2024). 🔗[[Paper]](https://ieeexplore.ieee.org/document/10771465)
 
 
 
