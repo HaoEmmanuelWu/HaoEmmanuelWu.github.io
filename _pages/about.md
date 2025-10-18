@@ -86,7 +86,7 @@ His research interest includes blockchain/smart contract security and program an
 
 # 💻 Teaching
 
-- *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, The Hong Kong Polytechnic University.
+- *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant , The Hong Kong Polytechnic University.
 
 # 🎖 Honors and Awards
 
