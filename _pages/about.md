@@ -84,6 +84,10 @@ His research interest includes blockchain/smart contract security and program an
 - *2023.09 - 2025.06*, M.S., Xi'an Jiaotong University, Supervisor: Prof. Haijun Wang.
 - *2019.09 - 2023.06*, B.s., Xi'an Jiaotong University. 
 
+# 💻 Teaching
+
+- *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, The Hong Kong Polytechnic University.
+
 # 🎖 Honors and Awards
 
 - *2024*: National Scholarship, Ministry of Education, China.
