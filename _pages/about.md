@@ -19,7 +19,7 @@ redirect_from:
 
 Hao Wu is a dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic University from 2025.09, under the supervision of [Prof. Haijun Wang](https://gr.xjtu.edu.cn/en/web/haijunwang) and [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he pursued his M.S. degree at Xi'an Jiaotong University (2023-2025) and received his B.S. degree in Automation from Xi'an Jiaotong University in 2023.
 
-His research interest includes blockchain/smart contract security and program analysis, particularly in combining static/dynamic program analysis with large language models to enhance blockchain security.
+His research interest includes blockchain/smart contract security and program analysis, particularly in combining static/dynamic program analysis with large language models to enhance blockchain security. Nowadays, he is also insterested in Agent security!
 
 💬 emmanuel_wh AT stu.xjtu.edu.cn
 
@@ -86,7 +86,8 @@ His research interest includes blockchain/smart contract security and program an
 
 # 💻 Teaching
 
-- *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant , The Hong Kong Polytechnic University.
+- *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant, The Hong Kong Polytechnic University.
+- *2026.01-2025.04*, COMP3344 Computer Systems Security, Teaching Assistant, The Hong Kong Polytechnic University.
 
 # 🎖 Honors and Awards
 
@@ -113,3 +114,5 @@ His research interest includes blockchain/smart contract security and program an
 - I have a deep passion for rhythm music genres like R&B, Soul, and Funk. Some of my favorite artists include Khalil Fong, David Tao, Prince, and Stevie Wonder et al.
 
 - I'm also an avid tennis enthusiast who loves both playing and watching matches. Rafa Nadal is my favorite player. One of my dreams is to watch all four Grand Slam tournaments someday - although my current process on this goal remains at 0/4. 
+
+- SSBoYXZlIGEgc3dlZXQgZ2lybGZyaWVuZA==
