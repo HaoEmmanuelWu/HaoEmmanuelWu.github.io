@@ -87,7 +87,7 @@ His research interest includes blockchain/smart contract security and program an
 # 💻 Teaching
 
 - *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant, The Hong Kong Polytechnic University.
-- *2026.01-2025.04*, COMP3344 Computer Systems Security, Teaching Assistant, The Hong Kong Polytechnic University.
+- *2026.01-2026.04*, COMP3344 Computer Systems Security, Teaching Assistant, The Hong Kong Polytechnic University.
 
 # 🎖 Honors and Awards
 
