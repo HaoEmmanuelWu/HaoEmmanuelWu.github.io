@@ -27,6 +27,7 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Our paper 📑 "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis" has been accepted to ISSTA2026.
 - *2025.06*: &nbsp;🚀🚀 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" is recently released.
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
@@ -38,6 +39,9 @@ His research interest includes blockchain/smart contract security and program an
 ^ denotes equal contribution, # denotes corrsponding author(s).
 <!-- 📚 journel paper
 📝 preprint paper -->
+
+### 2026
+- [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026).
 
 ### 2025
 
