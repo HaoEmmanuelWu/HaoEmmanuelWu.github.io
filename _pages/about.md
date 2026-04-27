@@ -21,7 +21,7 @@ Hao Wu is a dual Ph.D at Xi'an Jiaotong University and The Hong Kong Polytechnic
 
 His research interest includes blockchain/smart contract security and program analysis, particularly in combining static/dynamic program analysis with large language models to enhance blockchain security. Nowadays, he is also insterested in Agent security!
 
-💬 emmanuel_wh AT stu.xjtu.edu.cn
+💬 emmanuel_wh AT stu.xjtu.edu.cn or hao-comp.wu AT connect.polyu.hk
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -41,7 +41,7 @@ His research interest includes blockchain/smart contract security and program an
 📝 preprint paper -->
 
 ### 2026
-- [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026).
+- [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026， CCF-A).
 
 ### 2025
 
