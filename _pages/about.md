@@ -27,6 +27,7 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper 📑 "TrapHunter: Exposing Covert Pathways in Trap Token Contracts" has been accepted to ISSTA2026.
 - *2026.04*: &nbsp;🎉🎉 Our paper 📑 "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis" has been accepted to ISSTA2026.
 - *2025.06*: &nbsp;🚀🚀 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" is recently released.
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
@@ -41,7 +42,9 @@ His research interest includes blockchain/smart contract security and program an
 📝 preprint paper -->
 
 ### 2026
-- [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026， CCF-A).
+- [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026, CCF-A).
+
+- [C9] 📄 Yin Wu, Yixuan Liu, Yi Li, Chenyang Peng, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang. *TrapHunter: Exposing Covert Pathways in Trap Token Contracts.*  In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026, CCF-A).
 
 ### 2025
 
