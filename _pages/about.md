@@ -27,13 +27,42 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
+
+<div id="news-list">
+
 - *2026.06*: &nbsp;🎉🎉 Our paper 📑 "TrapHunter: Exposing Covert Pathways in Trap Token Contracts" has been accepted to ISSTA2026.
 - *2026.04*: &nbsp;🎉🎉 Our paper 📑 "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis" has been accepted to ISSTA2026.
 - *2025.06*: &nbsp;🚀🚀 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" is recently released.
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
+
+<div id="more-news" style="display:none;">
+
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to ASE2024.
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts" has been accepted to ASE2024.
+
+</div>
+
+</div>
+
+<button onclick="toggleNews()" id="news-button">
+Show More
+</button>
+
+<script>
+function toggleNews() {
+    var x = document.getElementById("more-news");
+    var btn = document.getElementById("news-button");
+
+    if (x.style.display === "none") {
+        x.style.display = "block";
+        btn.innerHTML = "Collapse";
+    } else {
+        x.style.display = "none";
+        btn.innerHTML = "Show More";
+    }
+}
+</script>
 
 # 📝 Publications 
 
@@ -95,6 +124,7 @@ His research interest includes blockchain/smart contract security and program an
 
 - *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant, The Hong Kong Polytechnic University.
 - *2026.01-2026.04*, COMP3344 Computer Systems Security, Teaching Assistant, The Hong Kong Polytechnic University.
+
 
 # 🎖 Honors and Awards
 
