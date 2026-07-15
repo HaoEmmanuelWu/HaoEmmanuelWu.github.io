@@ -37,7 +37,7 @@ His research interest includes blockchain/smart contract security and program an
 
 - *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
 
-<details>
+<details markdown="1">
 <summary>Show More</summary>
 
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to ASE2024.
