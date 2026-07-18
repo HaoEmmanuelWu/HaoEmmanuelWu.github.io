@@ -27,11 +27,11 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" has been accepted to TSE.
+
 - *2026.06*: &nbsp;🎉🎉 Our paper 📑 "TrapHunter: Exposing Covert Pathways in Trap Token Contracts" has been accepted to ISSTA2026.
 
 - *2026.04*: &nbsp;🎉🎉 Our paper 📑 "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis" has been accepted to ISSTA2026.
-
-- *2025.06*: &nbsp;🚀🚀 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" is recently released.
 
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 
@@ -53,13 +53,13 @@ His research interest includes blockchain/smart contract security and program an
 📝 preprint paper -->
 
 ### 2026
+- [J1] 📚 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Ting Liu. *RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis.* IEEE Transactions on Software Engineering (TSE2026, CCF-A). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
+
 - [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026, CCF-A).
 
 - [C9] 📄 Yin Wu, Yixuan Liu, Yi Li, Chenyang Peng, <strong style="color:#06C0B9">Hao Wu</strong>, Ming Fan, Ting Liu, Haijun Wang. *TrapHunter: Exposing Covert Pathways in Trap Token Contracts.*  In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026, CCF-A).
 
 ### 2025
-
-- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Ting Liu. *RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis.* (arXiv 2025). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
 
 - [C4] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Yitao Zhao, Ting Liu. *Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis.* In the 16th International Conference on Internetware: New Idea Track (Internetware New Idea 2025).
 
