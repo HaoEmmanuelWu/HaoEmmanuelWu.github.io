@@ -49,7 +49,7 @@ His research interest includes blockchain/smart contract security and program an
 
 # 🔍 Curated Repositories
 
-This section aims to track recent progress in relevant research areas and collect useful resources for the community. Contributions, suggestions, and discussions are very welcome.
+Aim to track recent progress in relevant research areas and collect useful resources for the community. Contributions, suggestions, and discussions are very welcome.
 
 - [SE Research Paper Writing Skill](https://github.com/Emmanuelwh/SE-Research-Paper-Writing-Skills): A skill for writing, polishing, and reviewing software engineering research papers.
 
