@@ -27,7 +27,7 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Our paper 📑 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" has been accepted to TSE.
+- *2026.07*: &nbsp;🎉🎉 Our paper 📚 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" has been accepted to TSE.
 
 - *2026.06*: &nbsp;🎉🎉 Our paper 📑 "TrapHunter: Exposing Covert Pathways in Trap Token Contracts" has been accepted to ISSTA2026.
 
@@ -45,6 +45,16 @@ His research interest includes blockchain/smart contract security and program an
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts" has been accepted to ASE2024.
 
 </details>
+
+
+# 🔍 Curated Repositories
+
+This section aims to track recent progress in relevant research areas and collect useful resources for the community. Contributions, suggestions, and discussions are very welcome.
+
+- [SE Research Paper Writing Skill](https://github.com/Emmanuelwh/SE-Research-Paper-Writing-Skills): A skill for writing, polishing, and reviewing software engineering research papers.
+
+- [Agent Security Papers](https://github.com/Emmanuelwh/agent-security-paper-summaries): A curated collection of research papers on agent security.
+
 
 # 📝 Publications 
 
@@ -121,9 +131,8 @@ His research interest includes blockchain/smart contract security and program an
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Talks
+- *2026.07*: "Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis." PolyU COMP-HIT(SZ) CST Research Student Conference, Shenzhen, China.
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
