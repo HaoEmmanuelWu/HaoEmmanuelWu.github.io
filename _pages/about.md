@@ -53,7 +53,7 @@ This section aims to track recent progress in relevant research areas and collec
 
 - [SE Research Paper Writing Skill](https://github.com/Emmanuelwh/SE-Research-Paper-Writing-Skills): A skill for writing, polishing, and reviewing software engineering research papers.
 
-- [Agent Security Papers](https://github.com/Emmanuelwh/agent-security-paper-summaries): A curated collection of research papers on agent security.
+- [Agent Security Papers](https://emmanuelwh.github.io/agent-security-paper-summaries/): A curated collection of research papers on agent security.
 
 
 # 📝 Publications 
