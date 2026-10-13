@@ -120,6 +120,7 @@ Aim to track recent progress in relevant research areas and collect useful resou
 
 # 🎖 Honors and Awards
 
+- *2026*: Excellent Graduate Student of Xi'an Jiaotong University
 - *2024*: National Scholarship, Ministry of Education, China.
 - *2024*: Xiaomi Scholarship.
 - *2024*: Excellent Graduate Student of Xi'an Jiaotong University.
