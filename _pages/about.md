@@ -27,6 +27,8 @@ His research interest includes blockchain/smart contract security and program an
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🚀🚀 Our paper 📝 "Price is Only the Symptom: Understanding and Analyzing Economic-State Manipulation Vulnerabilities in DeFi" is recently released.
+
 - *2026.07*: &nbsp;🎉🎉 Our paper 📚 "RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis" has been accepted to TSE.
 
 - *2026.06*: &nbsp;🎉🎉 Our paper 📑 "TrapHunter: Exposing Covert Pathways in Trap Token Contracts" has been accepted to ISSTA2026.
@@ -35,10 +37,10 @@ His research interest includes blockchain/smart contract security and program an
 
 - *2025.06*: &nbsp;🎉🎉 I passed the qualification assessment, and will become a dual Ph.D at XJTU & PolyU from 2025.09.
 
-- *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
-
 <details markdown="1">
 <summary>Show More</summary>
+
+- *2024.11*: &nbsp;🎉🎉 I won the National Scholarship (China).
 
 - *2024.08*: &nbsp;🎉🎉 Our paper 📑 "AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis" has been accepted to ASE2024.
 
@@ -63,6 +65,8 @@ Aim to track recent progress in relevant research areas and collect useful resou
 📝 preprint paper -->
 
 ### 2026
+- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Xiapu Luo#, Ming Fan, Ting Liu. *Price is Only the Symptom: Understanding and Analyzing Economic-State Manipulation Vulnerabilities in DeFi.* (arxiv 2026).
+
 - [J1] 📚 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Ting Liu. *RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis.* IEEE Transactions on Software Engineering (TSE2026, CCF-A). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
 
 - [C8] 📄 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Ting Liu, Xiapu Luo. *Tracing the Shadows: Automatic Tracking and Analysis of Crypto Money Laundering via Transaction Semantic Analysis.* In the 35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026, CCF-A).
@@ -116,7 +120,7 @@ Aim to track recent progress in relevant research areas and collect useful resou
 
 - *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant, The Hong Kong Polytechnic University.
 - *2026.01-2026.04*, COMP3344 Computer Systems Security, Teaching Assistant, The Hong Kong Polytechnic University.
-
+- *2026.09-2026.11*, COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, The Hong Kong Polytechnic University.
 
 # 🎖 Honors and Awards
 
