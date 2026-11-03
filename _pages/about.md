@@ -65,7 +65,7 @@ Aim to track recent progress in relevant research areas and collect useful resou
 📝 preprint paper -->
 
 ### 2026
-- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Xiapu Luo#, Ming Fan, Ting Liu. *Price is Only the Symptom: Understanding and Analyzing Economic-State Manipulation Vulnerabilities in DeFi.* (arxiv 2026).
+- [Pre1] 📝 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Xiapu Luo#, Ming Fan, Ting Liu. *Price is Only the Symptom: Understanding and Analyzing Economic-State Manipulation Vulnerabilities in DeFi.* (arxiv 2026). 🔗[[Paper]](https://arxiv.org/abs/2611.00587)
 
 - [J1] 📚 <strong style="color:#06C0B9">Hao Wu</strong>, Haijun Wang#, Shangwang Li, Yin Wu, Ming Fan, Wuxia Jin, Ting Liu. *RPHunter: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis.* IEEE Transactions on Software Engineering (TSE2026, CCF-A). 🔗[[Paper]](https://arxiv.org/abs/2506.18398)
 
