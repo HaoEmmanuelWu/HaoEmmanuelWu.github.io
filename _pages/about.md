@@ -116,11 +116,15 @@ Aim to track recent progress in relevant research areas and collect useful resou
 - *2023.09 - 2025.06*, M.S., Xi'an Jiaotong University, Supervisor: Prof. Haijun Wang.
 - *2019.09 - 2023.06*, B.s., Xi'an Jiaotong University. 
 
-# 💻 Teaching
+# 💻 Teaching and Academic Services
 
+## Teaching
 - *2025.09-2025.12*, COMP5511 Artificial Intelligence Concepts, Teaching Assistant, The Hong Kong Polytechnic University.
 - *2026.01-2026.04*, COMP3344 Computer Systems Security, Teaching Assistant, The Hong Kong Polytechnic University.
 - *2026.09-2026.11*, COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, The Hong Kong Polytechnic University.
+
+## Academic Services
+- Revivwer of IEEE Transactions on Software Engineering (TSE)
 
 # 🎖 Honors and Awards
 
