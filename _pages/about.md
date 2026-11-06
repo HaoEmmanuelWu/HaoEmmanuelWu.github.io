@@ -124,7 +124,8 @@ Aim to track recent progress in relevant research areas and collect useful resou
 - *2026.09-2026.11*, COMP1010 Computational Thinking and Problem Solving, Teaching Assistant, The Hong Kong Polytechnic University.
 
 ## Academic Services
-- Revivwer of IEEE Transactions on Software Engineering (TSE)
+- Reviewer of IEEE Transactions on Software Engineering (TSE)
+- Sub-reviewer of ICSE, FSE, ISSTA, ASE
 
 # 🎖 Honors and Awards
 
